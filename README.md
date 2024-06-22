@@ -30,6 +30,7 @@
 <br>
 
 ## 🎞 미리보기
+![preview1](https://github.com/doyeon01/Emotion_Diary/assets/156388715/6278f7d3-3e40-44b9-bc8a-7de8c225e21b)
 
 
 
