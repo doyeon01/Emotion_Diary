@@ -25,7 +25,7 @@
 <br>
 
 ## 💻 배포링크
-🖱 [Emotion_Diary](https://emotion-diary-mu-taupe.vercel.app/))   
+🖱 [Emotion_Diary](https://emotion-diary-mu-taupe.vercel.app/)
 
 <br>
 
@@ -40,6 +40,7 @@
 - diary 삭제
 - diary 수정
   
+<br>
 
 ## 💬 후기
 
